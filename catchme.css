@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    box-sizing: border-box;
+}
+
+.jerry{
+    position: absolute;
+    top: 0vh;
+    left: 0vw;
+    height: 35px;
+    /* border: 1px solid black; */
+    text-align: center;
+    line-height: 60px;
+    /* background: linear-gradient(to right,rgb(227, 204, 208),rgb(202, 235, 240)); */
+    transition: 0.3s;
+}
+
+#catchmeplz{
+    color: rgb(65, 35, 215);
+}
